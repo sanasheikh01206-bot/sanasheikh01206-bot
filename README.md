@@ -1,7 +1,10 @@
 <div align="center">
+  
 ## Sana Sheikh
 <sub><b>Data Science Aspirant | Data Analyst | Machine Learning</b></sub>
+
 </div>
+
 <br>
 <table>
   <tr>
