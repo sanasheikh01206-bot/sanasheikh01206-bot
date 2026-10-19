@@ -1,20 +1,16 @@
 <div align="center">
-
-### Sana Sheikh
+## Sana Sheikh
 <sub><b>Data Science Aspirant | Data Analyst | Machine Learning</b></sub>
-
 </div>
-
 <br>
-
 <table>
   <tr>
     <td width="70%" valign="middle">
       <b>Subject:</b> Sana Sheikh<br>
       <b>Handle:</b> <a href="https://github.com/sanasheikh01206-bot">@sanasheikh01206-bot</a><br>
-      <b>Role:</b> Data Science Aspirant | Data Analyst | ML<br>
+      <b>Role:</b> Data Science Aspirant | Data Analyst <br>
       <b>Status:</b> Building | Learning | Shipping<br>
-      <b>Languages:</b> Python, SQL, Jupyter Notebook, HTML, Dockerfile<br>
+      <b>Languages:</b> Python, SQL, Jupyter Notebook, Dockerfile<br>
       <b>Repositories:</b> 16<br>
       <b>Contributions:</b> 194
     </td>
