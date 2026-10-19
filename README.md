@@ -16,6 +16,8 @@ Languages:     Python, SQL,
 Repositories:  16
 Contributions: 194
 
+---
+
 💫 About Me:
 🔭 Currently working on: End-to-end machine learning deployments, including containerized microservices using Flask and Docker, and distributed regression pipelines using PySpark and Databricks.
 
@@ -67,4 +69,9 @@ Tracking: Experiment tracking and hyperparameter logging via MLflow
 
 Focus: Scalable Big Data ML
 
-Stock-Price-dashboard-using-streamlit: Interactive stock market dashboard built with Streamlit and Python to visualize historical EOD prices and closing trends for any ticker symbol.
+📈 Stock-Price-dashboard-using-streamlit
+Interactive stock market dashboard built with Streamlit and Python to visualize historical EOD prices and closing trends for any ticker symbol.
+
+Stack: Python · Streamlit · Pandas · Plotly
+
+Domain: Financial Analytics & Time Series Visualization
