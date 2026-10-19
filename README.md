@@ -12,7 +12,7 @@
       <br>
     </td>
     <td width="280" align="center" valign="middle">
-      <img src="./avatar.png" width="240px" alt="Sana Sheikh Avatar" />
+      <img src="./avatar.jpg" width="240px" alt="Sana Sheikh Avatar" />
     </td>
   </tr>
 </table>
