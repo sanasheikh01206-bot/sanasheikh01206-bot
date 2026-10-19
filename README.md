@@ -10,8 +10,8 @@
 ```yaml
 Subject:       Sana Sheikh
 Handle:        @sanasheikh01206-bot
-Role:          Data Science Aspirant | Data Analyst | ML
+Role:          Data Science Aspirant | Data Analyst 
 Status:        Building | Learning | Shipping
-Languages:     Jupyter Notebook, Python, HTML, Dockerfile
+Languages:     Python, SQL, 
 Repositories:  16
 Contributions: 194
