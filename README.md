@@ -4,15 +4,15 @@
       <br>
       <b>👤 Subject:</b> &nbsp; Sana Sheikh<br><br>
       <b>🔗 Handle:</b> &nbsp; <a href="https://github.com/sanasheikh01206-bot">@sanasheikh01206-bot</a><br><br>
-      <b>🎯 Role:</b> &nbsp; Data Science Aspirant | Data Analyst | Machine Learning<br><br>
+      <b>🎯 Role:</b> &nbsp; Data Science Aspirant | Data Analyst <br><br>
       <b>⚡ Status:</b> &nbsp; Building &nbsp;|&nbsp; Learning &nbsp;|&nbsp; Shipping<br><br>
-      <b>🛠️ Languages:</b> &nbsp; Python, SQL, Jupyter Notebook, HTML, Dockerfile<br><br>
+      <b>🛠️ Languages:</b> &nbsp; Python, SQL, Jupyter Notebook, Dockerfile<br><br>
       <b>📦 Repositories:</b> &nbsp; 16 Public Repositories<br><br>
       <b>📈 Contributions:</b> &nbsp; 194 Contributions<br>
       <br>
     </td>
     <td width="280" align="center" valign="middle">
-      <img src="./avatar.jpg" width="240px" alt="Sana Sheikh Avatar" />
+      <img src="./avatar.png" width="240px" alt="Sana Sheikh Avatar" />
     </td>
   </tr>
 </table>
