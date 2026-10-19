@@ -1,16 +1,18 @@
 <table width="100%">
   <tr>
-    <td width="75%" valign="middle">
-      <b>Subject:</b> Sana Sheikh<br>
-      <b>Handle:</b> <a href="https://github.com/sanasheikh01206-bot">@sanasheikh01206-bot</a><br>
-      <b>Role:</b> Data Science Aspirant | Data Analyst <br>
-      <b>Status:</b> Building | Learning | Shipping<br>
-      <b>Languages:</b> Python, SQL, Jupyter Notebook, Dockerfile<br>
-      <b>Repositories:</b> 16<br>
-      <b>Contributions:</b> 194
+    <td width="720" valign="middle">
+      <br>
+      <b>👤 Subject:</b> &nbsp; Sana Sheikh<br><br>
+      <b>🔗 Handle:</b> &nbsp; <a href="https://github.com/sanasheikh01206-bot">@sanasheikh01206-bot</a><br><br>
+      <b>🎯 Role:</b> &nbsp; Data Science Aspirant | Data Analyst | Machine Learning<br><br>
+      <b>⚡ Status:</b> &nbsp; Building &nbsp;|&nbsp; Learning &nbsp;|&nbsp; Shipping<br><br>
+      <b>🛠️ Languages:</b> &nbsp; Python, SQL, Jupyter Notebook, HTML, Dockerfile<br><br>
+      <b>📦 Repositories:</b> &nbsp; 16 Public Repositories<br><br>
+      <b>📈 Contributions:</b> &nbsp; 194 Contributions<br>
+      <br>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="./avatar.jpg" width="160px" alt="Sana Sheikh Avatar" style="border-radius: 12px;" />
+    <td width="280" align="center" valign="middle">
+      <img src="./avatar.png" width="240px" alt="Sana Sheikh Avatar" />
     </td>
   </tr>
 </table>
