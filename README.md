@@ -1,20 +1,28 @@
+<div align="center">
+
+# Sana Sheikh
+### Data Science Aspirant | Data Analyst | Machine Learning
+
+</div>
+
+<br>
+
 <table>
-<tr>
-<td width="35%" align="center" valign="middle">
-<img src="./avatar.png" width="220px" alt="Sana Sheikh Avatar" style="border-radius: 12px;" />
-</td>
-<td width="65%" valign="top">
-
-### `INFO`
-
-```yaml
-Subject:       Sana Sheikh
-Handle:        @sanasheikh01206-bot
-Role:          Data Science Aspirant | Data Analyst 
-Status:        Building | Learning | Shipping
-Languages:     Python, SQL, 
-Repositories:  16
-Contributions: 194
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="./avatar.png" width="180px" alt="Sana Sheikh Avatar" />
+    </td>
+    <td width="70%" valign="middle">
+      <b>Subject:</b> Sana Sheikh<br>
+      <b>Handle:</b> <a href="https://github.com/sanasheikh01206-bot">@sanasheikh01206-bot</a><br>
+      <b>Role:</b> Data Science Aspirant | Data Analyst | <br>
+      <b>Status:</b> Building | Learning | Shipping<br>
+      <b>Languages:</b> Python, SQL, Jupyter Notebook, Dockerfile<br>
+      <b>Repositories:</b> 16<br>
+      <b>Contributions:</b> 194
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -134,3 +142,9 @@ Contributions: 194
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+<sub>Crafted with care · Sana Sheikh (@sanasheikh01206-bot)</sub>
+</div>
