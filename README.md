@@ -1,164 +1,159 @@
+```markdown
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=sanasheikh01206-bot&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Sana Sheikh profile banner" />
+# Sana Sheikh
+### **Frontend or full-stack engineer** · the public internet
 
-<br/>
+*Building useful things and sharing the work in public.*
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Frontend%20or%20full-stack%20engineer;Building%20with%20Jupyter%20Notebook%20%C2%B7%20Python%20%C2%B7%20HTML;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+[[https://img.shields.io/badge/GitHub-@sanasheikh01206--bot-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/sanasheikh01206-bot)
 
-<br/>
-
-<a href="https://github.com/sanasheikh01206-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
+---
 
 </div>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sanasheikh01206-bot&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚡ whoami
-
-```typescript
-const sanasheikh01206_bot: Developer = {
-  name:      "Sana Sheikh",
-  role:      "Frontend or full-stack engineer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["Jupyter Notebook", "Python", "HTML", "Dockerfile"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
-
-> Frontend or full-stack engineer
-> 
-> **Collaborations welcome when they are meaningful 🤝**
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sanasheikh01206-bot&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=jupyter%2Cpython%2Chtml%2Cdocker&perline=8&theme=dark" alt="Tech stack" />
-
-<br/><br/>
-
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
-
-<img src="https://img.shields.io/badge/Jupyter_Notebook-DA5B0B?style=for-the-badge&amp;labelColor=0d1117" alt="Jupyter Notebook" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/Dockerfile-384d54?style=for-the-badge&amp;labelColor=0d1117" alt="Dockerfile" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sanasheikh01206-bot&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🌌 Featured Projects
+## ✦ Identity, with signal
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-**sanasheikh01206-bot**
+### 💡 About & Vision
+Building useful things and sharing the work in public.
 
-A featured build from this profile.
-
-`Open source` · `0 stars`
-
-<a href="https://github.com/sanasheikh01206-bot/sanasheikh01206-bot"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **Current Focus:** `Jupyter Notebook` · `Python` · `HTML`
+- **Philosophy:** *Thoughtful collaboration, ambitious products, and useful open source.*
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-**movie-recommender-docker-cicd**
+### 📡 Live Signal
+`LIVE SIGNAL`
 
-Content-based movie recommendation system built with TF-IDF &amp; Streamlit, containerized with Docker, and automated via GitHub Actions CI/CD.
-
-`Python` · `0 stars`
-
-<a href="https://github.com/sanasheikh01206-bot/movie-recommender-docker-cicd"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**loan-approval-mlops**
-
-End-to-end Loan Approval Prediction API built with Flask and Scikit-Learn. Features automated CI/CD using GitHub Actions (PyTest &amp; Newman), containerized with Docker, and published to Docker Hub for seamless deployment and testing
-
-`HTML` · `0 stars`
-
-<a href="https://github.com/sanasheikh01206-bot/loan-approval-mlops"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**restaurant-bill-prediction-spark**
-
-Distributed machine learning pipeline predicting restaurant total bills using PySpark MLlib, Databricks Community Edition, and MLflow.
-
-`Jupyter Notebook` · `0 stars`
-
-<a href="https://github.com/sanasheikh01206-bot/restaurant-bill-prediction-spark"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- 📦 **16** Repositories
+- ⭐ **0** Stars
+- ⚡ **194** Contributions
+- 👥 **0** Followers
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+> *Positioning is useful when the proof is close behind it.*
 
-<br/>
+---
 
-- **Stock-Prce-dasborad-using-stramlit** — An interactive stock market dashboard built with Streamlit and Python to visualize historical EOD prices and closing trends for any ticker symbol. · <a href="https://github.com/sanasheikh01206-bot/Stock-Prce-dasborad-using-stramlit"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **Cars24-used-price-prediction** — A Machine Learning web app built with Streamlit and Scikit-Learn to predict used car prices based on Cars24 dataset features. · <a href="https://github.com/sanasheikh01206-bot/Cars24-used-price-prediction"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **SQL-Music-Project** — Featured work · <a href="https://github.com/sanasheikh01206-bot/SQL-Music-Project"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-- **Heart-Disease-Prediction** — Featured work · <a href="https://github.com/sanasheikh01206-bot/Heart-Disease-Prediction"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+## ✦ What moves the work
 
-</details>
+### ⚡ Ideas taking shape
+*Current build queue & focus areas:*
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sanasheikh01206-bot&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+| Phase | Technology | Status |
+| :---: | :--- | :--- |
+| **01** | `Jupyter Notebook` | **Current focus** |
+| **02** | `Python` | **In the build queue** |
+| **03** | `HTML` | **In the build queue** |
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+## ✦ The tools behind the signal
 
-<img src="https://www.gitskins.com/api/section/stats?username=sanasheikh01206-bot&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+### 🛠️ The tools behind the work
 
-<br/>
+```text
+Jupyter Notebook   ██████████████████████████████   99% of public code
+Python             ▌                                0% (in development)
+HTML               ▌                                0% (markup & web)
+Dockerfile         ▌                                0% (containerization)
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=sanasheikh01206-bot&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+```
 
-</div>
+[[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]](https://python.org)
+[[https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white]](https://jupyter.org)
+[[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white]](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white]](https://www.docker.com/)
+[[https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white]](https://flask.palletsprojects.com/)
+[[https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white]](https://streamlit.io/)
+[[https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white]](https://scikit-learn.org/)
+[[https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white]](https://spark.apache.org/)
+[[https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white]](https://databricks.com/)
+[[https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white]](https://mlflow.org/)
+[[https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white]](https://github.com/features/actions)
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sanasheikh01206-bot&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+> *Jupyter Notebook · Python · HTML · Dockerfile — chosen for the work, not the trend.*
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sanasheikh01206-bot&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F224403447%3Fu%3D221e7af646dd16858f180f06b031edcbfc06d8be%26v%3D4" alt="sanasheikh01206-bot heatmap visual" />
-</p>
+---
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sanasheikh01206-bot&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+## ✦ Built, shipped, shared
 
-## 🏆 Beyond the Code
+### 🌌 A universe of work & project launch sequence
 
-* 🧠 **Profile signal:** 194 contributions in the last year
-* 🚀 **Builder energy:** 16 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+```
+[sanasheikh01206-bot] ─── (01 / Oct 2026) ───► Public work in motion
+         │
+         ├───► [movie-recommender-docker-cicd] ─── (02 / Oct 2026) ───► Content-based recommendations
+         │
+         ├───► [loan-approval-mlops] ──────────── (03 / Oct 2026) ───► End-to-end MLOps API
+         │
+         └───► [restaurant-bill-prediction-spark]  (04 / Sep 2026) ───► Distributed ML pipeline
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=sanasheikh01206-bot&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+```
 
-<div align="center">
+### 🚀 Featured Repositories
 
-## 🤝 Let's Build Something Meaningful
+### 📌 [sanasheikh01206-bot](https://www.google.com/search?q=https://github.com/sanasheikh01206-bot/sanasheikh01206-bot)
 
-I build useful software and enjoy turning ambitious ideas into working products.
+*A selected project from this public body of work.*
 
-<a href="https://github.com/sanasheikh01206-bot"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+* **Stack:** Markdown / GitHub Config
+* **Type:** Open Source Portfolio Base
+* **Status:** Active motion
 
-<br/><br/>
+### 🎬 [movie-recommender-docker-cicd](https://www.google.com/search?q=https://github.com/sanasheikh01206-bot/movie-recommender-docker-cicd)
 
-***⭐ From [Sana Sheikh](https://github.com/sanasheikh01206-bot) · built with code, AI & a little chaos 😈***
+*Content-based movie recommendation system built with TF-IDF & Streamlit.*
 
-</div>
+* **Stack:** `Python` · `Streamlit` · `TF-IDF` · `Docker`
+* **Automation:** Automated CI/CD via GitHub Actions
+* **Containerized:** Dockerized deployment ready
+
+### 💳 [loan-approval-mlops](https://www.google.com/search?q=https://github.com/sanasheikh01206-bot/loan-approval-mlops)
+
+*End-to-end Loan Approval Prediction API built with Flask and Scikit-Learn.*
+
+* **Stack:** `Python` · `Flask` · `Scikit-Learn` · `HTML`
+* **CI/CD:** Automated testing via GitHub Actions (PyTest & Newman)
+* **Deployment:** Containerized with Docker
+
+### 📊 [restaurant-bill-prediction-spark](https://www.google.com/search?q=https://github.com/sanasheikh01206-bot/restaurant-bill-prediction-spark)
+
+*Distributed machine learning pipeline predicting restaurant total bills.*
+
+* **Stack:** `Jupyter Notebook` · `PySpark MLlib`
+* **Platform:** Databricks Community Edition
+* **Tracking:** Experiment tracking and model metrics via `MLflow`
+
+*4 featured repositories · follow the line from first signal to latest motion.*
+
+---
+
+## ✦ Momentum, made visible
+
+### 📈 Profile Signal & Contribution Energy
+
+*1 day current streak · 32 active days*
+
+*194 contributions · brighter stars mark busier days.*
+
+---
+
+## ✦ Make something worth noticing
+
+> *"I like working with people who care about craft, context, and shipping the useful version."*
+
+### 📬 Open Channel: Build the next chapter
+
+Feel free to explore the repositories, open an issue, or connect!
+
+* **GitHub:** [@sanasheikh01206-bot](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/sanasheikh01206-bot)
+* **Profile:** [github.com/sanasheikh01206-bot](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/sanasheikh01206-bot)
