@@ -5,7 +5,7 @@
 </td>
 <td width="65%" valign="top">
 
-### `SYSTEM.INFO`
+### `INFO`
 
 ```yaml
 Subject:       Sana Sheikh
